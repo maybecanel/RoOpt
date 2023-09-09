@@ -4,7 +4,7 @@
 <p align=center>
   <a href="https://github.com/maybecanel/RoOpt/releases/latest"><img alt="GitHub release (latest by date)" src="https://img.shields.io/github/downloads/maybecanel/RoOpt/total"></a>
   <br>
-  <a href="https://www.roblox.com/game-pass/252553886/Support-my-work"><img alt="Support this project!" src="https://img.shields.io/badge/support%20on-boosty-19e2e2"></a>
+  <a href="https://www.roblox.com/game-pass/252553886/Support-my-work"><img alt="Support this project!" src="https://img.shields.io/badge/support%20-this-project!-19e2e2"></a>
 </p>
 
 <h1>RoOpt+</h1>

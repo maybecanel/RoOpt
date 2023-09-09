@@ -12,7 +12,7 @@
 <h3>This program does NOT violate any Roblox Terms Of Services and is completely legal. </h3>
 Dont belive me? 
 
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE "Video Title")
+[![IMAGE ALT TEXT](https://i.ytimg.com/vi/_EkzyG9v6N8/hqdefault.jpg)](https://www.youtube.com/watch?v=_EkzyG9v6N8&t=24s "Video Title")
 
 
 <a href="https://twitter.com/ValiantWind/status/1651662595739521024"><img alt="Proof" src="https://img.shields.io/badge/PROOF-red"></a>

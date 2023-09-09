@@ -12,7 +12,6 @@
 <h3>This program does NOT violate any Roblox Terms Of Services and is completely legal. </h3>
 Dont belive me? 
 <a href="https://twitter.com/ValiantWind/status/1651662595739521024"><img alt="Proof" src="https://img.shields.io/badge/PROOF-red"></a>
-<br>
 <h1>TUTORIAL</h1>
 [![IMAGE ALT TEXT](https://i.ytimg.com/vi/_EkzyG9v6N8/hqdefault.jpg)](https://www.youtube.com/watch?v=_EkzyG9v6N8&t=24s "eh")
 too lazy to make it opensource just use an obfuscator 💀

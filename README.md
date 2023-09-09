@@ -10,6 +10,6 @@
 <h1>RoOpt+</h1>
 <h3>This program allows you to patch roblox to set the FPS cap to 500. </h3>
 <h3>This program does NOT violate any Roblox Terms Of Services and is completely legal. </h3>
-<h4 href="https://twitter.com/ValiantWind/status/1651662595739521024">Dont belive me?</h4>
+<h4 href="https://twitter.com/ValiantWind/status/1651662595739521024"><FONT COLOR=blue>Dont belive me?</h4>
 
 too lazy to make it opensource just use an obfuscator 💀

@@ -6,3 +6,4 @@
 <h3>This program allows you to patch roblox to set the FPS cap to 500. </h3>
 <h3>This program does NOT violate any Roblox Terms Of Services and is completely legal. </h3>
 
+too lazy to make it opensource just use an obfuscator 💀

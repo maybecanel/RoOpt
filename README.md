@@ -11,6 +11,6 @@
 <h3>This program allows you to patch roblox to set the FPS cap to 500. </h3>
 <h3>This program does NOT violate any Roblox Terms Of Services and is completely legal. </h3>
 Dont belive me? 
-<a href="https://github.com/maybecanel/RoOpt/releases/latest"><src="https://img.shields.io/badge/Dont_belive_me?!-red"></a>
+<img alt="Static Badge" src="https://img.shields.io/badge/Proof-red">
 
 too lazy to make it opensource just use an obfuscator 💀

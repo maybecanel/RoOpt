@@ -1,6 +1,11 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/maybecanel/RoOpt/main/RoOptLogo_NoBackground.png" width="20%" title="Intro Card" alt="Intro Card">
 </p>
+<p align=center>
+  <a href="https://github.com/maybecanel/RoOpt/releases/latest"><img alt="GitHub release (latest by date)" src="https://img.shields.io/github/downloads/maybecanel/RoOpt/total"></a>
+  <br>
+  <a href="[https://boosty.to/maximmax42](https://www.roblox.com/game-pass/252553886/Support-my-work)"><img alt="Support this project!" src="https://img.shields.io/badge/support%20on-boosty-19e2e2"></a>
+</p>
 
 <h1>RoOpt+</h1>
 <h3>This program allows you to patch roblox to set the FPS cap to 500. </h3>

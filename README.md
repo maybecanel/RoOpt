@@ -12,17 +12,7 @@
 <h3>This program does NOT violate any Roblox Terms Of Services and is completely legal. </h3>
 Dont belive me? 
 
-<div style="width: 560px; height: 315px; float: none; clear: both; margin: 2px auto;">
-  <embed
-    src="https://www.youtube.com/watch?v=_EkzyG9v6N8&t=24s"
-    wmode="transparent"
-    type="video/mp4"
-    width="100%" height="100%"
-    allow="autoplay; encrypted-media; picture-in-picture"
-    allowfullscreen
-    title="Keyboard Cat"
-  >
-</div>
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE "Video Title")
 
 
 <a href="https://twitter.com/ValiantWind/status/1651662595739521024"><img alt="Proof" src="https://img.shields.io/badge/PROOF-red"></a>

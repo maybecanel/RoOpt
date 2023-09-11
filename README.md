@@ -16,4 +16,4 @@ Dont belive me?
 
 [![IMAGE ALT TEXT](https://i.ytimg.com/vi/_EkzyG9v6N8/hqdefault.jpg)](https://www.youtube.com/watch?v=_EkzyG9v6N8&t=24s "Video Title")
 
-too lazy to make it opensource just use an obfuscator 💀
+too lazy to make it opensource just use an decompiler 💀

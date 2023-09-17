@@ -16,4 +16,6 @@ Dont belive me?
 
 [![IMAGE ALT TEXT](https://i.ytimg.com/vi/_EkzyG9v6N8/hqdefault.jpg)](https://www.youtube.com/watch?v=_EkzyG9v6N8&t=24s "Video Title")
 
+HUGE THANKS TO [@max](https://github.com/maximmax42/) FOR HELPING! <3
+
 too lazy to make it opensource just use an decompiler 💀
